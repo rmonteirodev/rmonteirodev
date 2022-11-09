@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rmonteirodev
-- 👀 I’m interested ... in Front-end web development and UI/UX design.
-- 🌱 I’m currently learning ... UI/UX design
-- 📫 How to reach me ... Twitter @rgmonteiro18 and/or IG @rmonteiro18
+- 👀 I’m interested ... in Front-end web development, UI/UX design and playing hockey nationally/internationally annually and weekends.
+- 🌱 I’m currently learning ... UI/UX design.
+- 📫 How to reach me ... 
 
 <!---
 rmonteirodev/rmonteirodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

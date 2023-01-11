@@ -2,8 +2,8 @@
 
 **`Digital Craftsman (Freelance JavaScript Developer)`**
 
-        I'm a freelance front-end developer building unique web applications for
-        clients one step at a time. All coding projects are built from
+        I'm a freelance Javascript developer building unique web applications one step at a time. 
+        All coding projects are built from
         the ground up, from planning and designing all the way to solving
         present day problems with code.
 
